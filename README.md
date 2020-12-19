@@ -1,3 +1,3 @@
 # nice-csscards
 
-##simple cards using css
+## simple cards using css
